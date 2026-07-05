@@ -21,10 +21,9 @@ def register_user(
     db: Session = Depends(get_db)
 ):
     new_user = models.User(
-    username=user.username,
-    email=user.email,
-    password=hash_password(user.password)
-)
+        username=user.username,
+        email=user.email,
+        password=hash_password(user.password)
     )
 
     db.add(new_user)
