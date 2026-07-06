@@ -103,6 +103,6 @@ http://127.0.0.1:8000/docs
 
 ## 👨‍💻 Author
 
-**Kiko Bazz**
+**Lordmark Dorgu aka Kikobazz**
 
 GitHub: https://github.com/Kikobazz123
