@@ -14,3 +14,29 @@ class UserResponse(BaseModel):
 
     class Config:
         from_attributes = True
+
+
+class UserLogin(BaseModel):
+    email: EmailStr
+    password: str
+
+
+class Token(BaseModel):
+    access_token: str
+    token_type: str
+
+class ExpenseCreate(BaseModel):
+    title: str
+    amount: float
+    category: str
+
+
+class ExpenseResponse(BaseModel):
+    id: int
+    title: str
+    amount: float
+    category: str
+    owner_id: int
+
+    class Config:
+        from_attributes = True
