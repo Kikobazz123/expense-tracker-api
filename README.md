@@ -1,6 +1,6 @@
 # Expense Tracker API
 
-A RESTful Expense Tracker API built with **FastAPI**, **SQLAlchemy**, and **SQLite**.
+Secure Expense Tracker REST API built with FastAPI, SQLAlchemy, JWT Authentication, and SQLite.
 
 ## 🚀 Features
 
