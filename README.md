@@ -1,7 +1,5 @@
 # Expense Tracker API
 
-A secure RESTful Expense Tracker API built with FastAPI.
-
 ## Features
 
 - User Registration
@@ -49,4 +47,28 @@ http://127.0.0.1:8000/docs
 
 ## Author
 
+<<<<<<< HEAD
 Lordmark Dorgu
+=======
+| Method | Endpoint  | Description         |
+| ------ | --------- | ------------------- |
+| GET    | /         | API Health Check    |
+| POST   | /register | Register a New User |
+
+## 🔨 Planned Features
+
+* Password Hashing (bcrypt)
+* JWT Authentication
+* Login Endpoint
+* Expense CRUD
+* Expense Categories
+* Monthly Reports
+* Docker Support
+* Deployment to Render
+
+## 👨‍💻 Author
+
+**Lordmark Dorgu aka Kikobazz**
+
+GitHub: https://github.com/Kikobazz123
+>>>>>>> 4a24d37e95d43c1793dbc7bec7a4cb0eb5038e10
