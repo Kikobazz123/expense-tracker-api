@@ -11,6 +11,8 @@ expenses.db
 # Environment Variables
 .env
 
+.idea/
+
 # VS Code
 .vscode/
 
