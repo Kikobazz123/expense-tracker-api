@@ -47,7 +47,7 @@ http://127.0.0.1:8000/docs
 
 ## Author
 
-<<<<<<< HEAD
+
 Lordmark Dorgu
 =======
 | Method | Endpoint  | Description         |
@@ -71,4 +71,4 @@ Lordmark Dorgu
 **Lordmark Dorgu aka Kikobazz**
 
 GitHub: https://github.com/Kikobazz123
->>>>>>> 4a24d37e95d43c1793dbc7bec7a4cb0eb5038e10
+
