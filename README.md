@@ -215,7 +215,7 @@ The API uses **JWT Authentication**.
 
 GitHub: https://github.com/Kikobazz123
 
-=======
+
 ```
 POST /register
 ```
