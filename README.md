@@ -198,7 +198,7 @@ Lordmark Dorgu
 | ------ | --------- | ------------------- |
 | GET    | /         | API Health Check    |
 | POST   | /register | Register a New User |
-=======
+
 ```
 http://127.0.0.1:8000/redoc
 ```
